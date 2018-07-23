@@ -17,3 +17,8 @@
 - Please feel free to explore the notebook.
 - Link to the notebook: [Pandas Part 2](https://github.com/Abhishekmamidi123/100DaysOfMLCode/blob/master/3_pandas_part_2.ipynb)
 - Source - [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
+## Day 4 and Day 5:
+- Participated in ZS Challenge organised by Hacker Earth.
+- [Link to the Repository](https://github.com/Abhishekmamidi123/ZS_Data_Science_Challenge)
+- The Hackathon was awesome and the problem was challenging enought to test your skills.
