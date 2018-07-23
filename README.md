@@ -21,4 +21,4 @@
 ## Day 4 and Day 5:
 - Participated in ZS Challenge organised by Hacker Earth.
 - [Link to the Repository](https://github.com/Abhishekmamidi123/ZS_Data_Science_Challenge)
-- The Hackathon was awesome and the problem was challenging enought to test your skills.
+- The Hackathon was awesome and the problem was challenging enough to test your skills.
