@@ -19,6 +19,8 @@
 - Source - [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
 ## Day 4 and Day 5:
-- Participated in ZS Challenge organised by Hacker Earth.
+- Participated in the ZS Challenge organised by Hacker Earth. It was a four day challenge.
 - [Link to the Repository](https://github.com/Abhishekmamidi123/ZS_Data_Science_Challenge)
 - The Hackathon was awesome and the problem was challenging enough to test your skills.
+- Secured a rank of 230 out of 4743 (top 5%).
+
