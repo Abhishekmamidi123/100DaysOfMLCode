@@ -20,7 +20,13 @@
 
 ## Day 4 and Day 5:
 - Participated in the ZS Challenge organised by Hacker Earth. It was a four day challenge.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/zs-data-science-challenge-2018/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/ZS_Data_Science_Challenge)
 - The Hackathon was awesome and the problem was challenging enough to test your skills.
 - Secured a rank of 230 out of 4743 (top 5%).
 
+### Day 5, Day 6 and Day 8:
+- Participated in the Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict_the_damage_to_a_building_ML_Challenge)
+- It is a Classification problem which involved a lot of preprocessing, joining tables. The data is huge which also helps us to solve the challenge in an optimized way.
