@@ -25,7 +25,7 @@
 - The Hackathon was awesome and the problem was challenging enough to test your skills.
 - Secured a rank of 230 out of 4743 (top 5%).
 
-### Day 6 - Day 12:
+## Day 6 - Day 12:
 - Participated in the Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict_the_damage_to_a_building_ML_Challenge)
