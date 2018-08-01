@@ -11,12 +11,14 @@
 - It contains some basic usage of Pandas.
 - Link to the notebook: [Pandas Part 1](https://github.com/Abhishekmamidi123/100DaysOfMLCode/blob/master/2_pandas_part_1.ipynb)
 - Source - [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+- [Link to the official Pandas Documentation](https://pandas.pydata.org/)
 
 ## Day 3: Pandas: Part 2
 - They are many tricks which makes our life easier instead of wasting time in writing long codes. So, I have explored Pandas library thoroughly so that I can save a lot of time while coding.
 - Please feel free to explore the notebook.
 - Link to the notebook: [Pandas Part 2](https://github.com/Abhishekmamidi123/100DaysOfMLCode/blob/master/3_pandas_part_2.ipynb)
 - Source - [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+- [Link to the official Pandas Documentation](https://pandas.pydata.org/)
 
 ## Day 4 and Day 5:
 - Participated in the ZS Challenge organised by Hacker Earth. It was a four day challenge.
@@ -44,3 +46,7 @@
 
 ## Day 14:
 - Data visualization using Seaborn
+- [Link to the Notebook](https://github.com/Abhishekmamidi123/100DaysOfMLCode/blob/master/14_Data_visualization_using_Seaborn.ipynb)
+- [Link to the official Seaborn Documentation](https://seaborn.pydata.org/)
+- Source - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
+- This Notebook contains different plots that were explored on sample datasets, that were provided by the Seaborn library.
