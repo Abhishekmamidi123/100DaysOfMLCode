@@ -41,3 +41,6 @@
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
 - It is a Binary Classification problem. This problem involves chosing the correct algorithm(modelling).
 - Secured a rank of xxx of xxxx.
+
+## Day 14:
+- Data visualization using Seaborn
