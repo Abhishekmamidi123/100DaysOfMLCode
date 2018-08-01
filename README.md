@@ -23,12 +23,21 @@
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/zs-data-science-challenge-2018/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/ZS_Data_Science_Challenge)
 - The Hackathon was awesome and the problem was challenging enough to test your skills.
-- Secured a rank of 230 out of 4743 (top 5%).
+- Secured a rank of 223 out of 4743 (top 5%).
 
 ## Day 6 - Day 12:
 - Participated in the Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
-- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict_the_damage_to_a_building_ML_Challenge)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
 - It is a Classification problem which involved a lot of preprocessing, joining tables. The data is huge which also helps us to solve the challenge in an optimized way.
 - I faced a lot of problems like Data balancing, duplicate data, hyper parameter tuning. It's quite interesting.
 - This project helped me alot in learning different ways to handle huge data.
+- Secured a rank of xxx out of xxxx.
+
+## Day 13:
+- Participated in the American Express AI Challenge(Problem 2) - "Supervised Modeling with Emphasis on LAUC
+" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
+- It is a Binary Classification problem. This problem involves chosing the correct algorithm(modelling).
+- Secured a rank of xxx of xxxx.
