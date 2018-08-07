@@ -51,7 +51,7 @@
 - Source - [Python for Data Visualization - using Seaborn](https://www.youtube.com/playlist?list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d)
 - This Notebook contains different plots that were explored on sample datasets, that were provided by the Seaborn library.
 
-## Day 15 - Day 17:
+## Day 15 - Day 19:
 - Resumed my work on Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
