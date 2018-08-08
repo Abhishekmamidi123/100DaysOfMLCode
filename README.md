@@ -55,3 +55,22 @@
 - Resumed my work on Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
+
+## Day 20:
+- [A Complete Tutorial on Tree Based Modeling](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+- This tutorial explains about various topics such as:
+  - What is a Decision Tree? How does it work?
+  - Regression Trees vs Classification Trees
+  - How does a tree decide where to split?
+  - What are the key parameters of model building and how can we avoid over-fitting in decision trees?
+  - Are tree based models better than linear models?
+  - Working with Decision Trees in R and Python
+  - What are the ensemble methods of trees based model?
+  - What is Bagging? How does it work?
+  - What is Random Forest ? How does it work?
+  - What is Boosting ? How does it work?
+  - Which is more powerful: GBM or Xgboost?
+  - Working with GBM in R and Python
+  - Working with Xgboost in R and Python
+  - Where to Practice ?
+- The tutorial is very intuitive and any one can understand the concepts easily. It is worth reading and spending time.
