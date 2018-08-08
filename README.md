@@ -55,6 +55,7 @@
 - Resumed my work on Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
+- Increased my score from 0.68571 to 0.72056 after spending a lot of time in tuning hyperparameters.
 
 ## Day 20:
 - [A Complete Tutorial on Tree Based Modeling](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
