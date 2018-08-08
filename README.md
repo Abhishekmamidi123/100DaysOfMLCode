@@ -74,3 +74,9 @@
   - Working with Xgboost in R and Python
   - Where to Practice ?
 - The tutorial is very intuitive and any one can understand the concepts easily. It is worth reading and spending time.
+
+## Day 21:
+- Resumed my work on Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
+- Increased my score from 0.72056 to 0.72498 after spending a lot of time in tuning hyperparameters.
