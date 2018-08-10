@@ -76,7 +76,7 @@
   - Where to Practice ?
 - The tutorial is very intuitive and any one can understand the concepts easily. It is worth reading and spending time.
 
-## Day 21:
+## Day 21 - Day 23:
 - Resumed my work on Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
