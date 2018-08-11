@@ -34,7 +34,6 @@
 - It is a Classification problem which involved a lot of preprocessing, joining tables. The data is huge which also helps us to solve the challenge in an optimized way.
 - I faced a lot of problems like Data balancing, duplicate data, hyper parameter tuning. It's quite interesting.
 - This project helped me alot in learning different ways to handle huge data.
-- Secured a rank of xxx out of xxxx.
 
 ## Day 13:
 - Participated in the American Express AI Challenge(Problem 2) - "Supervised Modeling with Emphasis on LAUC
@@ -42,7 +41,6 @@
 - [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
 - It is a Binary Classification problem. This problem involves chosing the correct algorithm(modelling).
-- Secured a rank of xxx of xxxx.
 
 ## Day 14:
 - Data visualization using Seaborn
@@ -81,3 +79,10 @@
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
 - Increased my score from 0.72056 to 0.72498 after spending a lot of time in tuning hyperparameters.
+
+## Day 24 - Day 25:
+- Resumed my work on American Express AI Challenge(Problem 2) - "Supervised Modeling with Emphasis on LAUC
+" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
+- Increased my score from 0.96655	 to 0.966556 after spending a lot of time in feature extraction and tuning hyperparameters.
