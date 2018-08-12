@@ -86,3 +86,8 @@
 - [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
 - Increased my score from 0.96655	 to 0.966556 after spending a lot of time in feature extraction and tuning hyperparameters.
+
+## Day 26:
+- Successfully completed the challenge - American Express AI Challenge(Problem 2) - "Supervised Modeling with Emphasis on LAUC" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
