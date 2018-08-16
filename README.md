@@ -91,3 +91,10 @@
 - Successfully completed the challenge - American Express AI Challenge(Problem 2) - "Supervised Modeling with Emphasis on LAUC" organised by Hacker Earth.
 - [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Supervised-Modeling-with-Emphasis-on-LAUC)
+- Rank: 36 out of 1354 participants
+
+## Day 27 - Day 29:
+- Successfully completed the Machine Learning Challenge - "Predict the damage to a building" organised by Hacker Earth.
+- [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
+- Rank: 242 out of 7540 participants.
