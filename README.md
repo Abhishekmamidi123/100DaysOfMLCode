@@ -98,3 +98,9 @@
 - [Link to the Challenge](https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-the-damage-to-a-building-ML-Challenge)
 - Rank: 242 out of 7540 participants.
+
+## Day 30 - Day 35:
+- Participated in the Machine Hack Challenge - "Predict house proces in Bangalore".
+- [Link to the Challenge](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore) - Private mode.
+- It is a Regression problem. It involves a lot preprocessing and handling missing values. It's really fun though.
