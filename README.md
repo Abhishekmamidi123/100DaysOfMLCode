@@ -104,3 +104,8 @@
 - [Link to the Challenge](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore) - Private mode.
 - It is a Regression problem. It involves a lot preprocessing and handling missing values. It's really fun though.
+
+## Day 36 - Day 38:
+- Started reading about Time series analysis from scratch.
+- Text Book: Time Series Analysis Forecasting and control by Box and Jenkins.
+- Completed reading first 2 chapters.
