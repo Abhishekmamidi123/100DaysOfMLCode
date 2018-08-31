@@ -102,10 +102,15 @@
 ## Day 30 - Day 35:
 - Participated in the Machine Hack Challenge - "Predict house proces in Bangalore".
 - [Link to the Challenge](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
-- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore) - Private mode.
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore)
 - It is a Regression problem. It involves a lot preprocessing and handling missing values. It's really fun though.
 
 ## Day 36 - Day 38:
 - Started reading about Time series analysis from scratch.
 - Text Book: Time Series Analysis Forecasting and control by Box and Jenkins.
-- Completed reading first 2 chapters.
+- Completed reading first 2 chapters - This gives introduction to time series analysis and the types of methods used.
+
+## Day 39 - Day 40:
+- Resumed my work on the Machine Hack Challenge - "Predict house proces in Bangalore".
+- [Link to the Challenge](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
+- [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore)
