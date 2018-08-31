@@ -114,3 +114,8 @@
 - Resumed my work on the Machine Hack Challenge - "Predict house proces in Bangalore".
 - [Link to the Challenge](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
 - [Link to the Repository](https://github.com/Abhishekmamidi123/Predict-house-prices-in-Bangalore)
+
+## Day 41 - Day 44:
+- Read third chapter from the text book: Time Series Analysis Forecasting and control by Box and Jenkins.
+- Chapter 3: Linear Statioanry models (Autoregressive, Moving average, Mixed Autoregressive moving average). It also explains about the conditions of stationarity, invertibility, Autocorrelation function and Partial autocorrelation functions.
+- This text book explains the concepts mathematically in a very simple way.
