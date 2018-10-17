@@ -119,3 +119,7 @@
 - Read third chapter from the text book: Time Series Analysis Forecasting and control by Box and Jenkins.
 - Chapter 3: Linear Statioanry models (Autoregressive, Moving average, Mixed Autoregressive moving average). It also explains about the conditions of stationarity, invertibility, Autocorrelation function and Partial autocorrelation functions.
 - This text book explains the concepts mathematically in a very simple way.
+
+## Day 45 - Present:
+- Working on different Time Series data.
+- Appying different stochastic models and comparing with latest models.
